@@ -1,3 +1,11 @@
+/*
+Student name: Iuliia Chugunova
+Student ID: 301150836
+File: express.js
+Date: October 18th, 2023
+Description: set up the app
+*/
+
 import express from 'express';
 import bodyParser from 'body-parser';
 import cookieParser from 'cookie-parser';

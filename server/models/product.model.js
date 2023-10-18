@@ -1,3 +1,11 @@
+/*
+Student name: Iuliia Chugunova
+Student ID: 301150836
+File: product.model.js
+Date: October 18th, 2023
+Description: defines data structure of product, allows connect to database and operate on the data 
+*/
+
 import mongoose from 'mongoose';
 
 const productSchema = new mongoose.Schema({

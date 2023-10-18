@@ -1,3 +1,11 @@
+/*
+Student name: Iuliia Chugunova
+Student ID: 301150836
+File: product.controller.js
+Date: October 18th, 2023
+Description: Responsible for handling incoming requests and returning responses to the client
+*/
+
 import { response } from 'express';
 import Product from '../models/product.model.js';
 import extend from 'lodash/extend.js'
